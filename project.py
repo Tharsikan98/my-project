@@ -1,4 +1,4 @@
-k=int(input("Enter The Marks : "))
+k=int(input("type The Marks : "))
 if k > 35:
     print("You Pass The Exam")
 else:
