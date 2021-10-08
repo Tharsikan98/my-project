@@ -7,7 +7,7 @@ else:
 while i<=5:
      print(i)"""
 """
-for i in range(2):
+for i in range(3):
      f=str(input("Enter the first name :"))
      s=str(input("Enter second fi name :"))
      print(f,s)
